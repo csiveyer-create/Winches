@@ -1,0 +1,16 @@
+Place the ORIGINAL Winches & Wirecams homepage video here and rename it:
+
+home-hero.mp4
+
+Final path:
+assets/home-hero.mp4
+
+The homepage is already wired to:
+- autoplay
+- mute
+- loop
+- play inline
+- cover the entire hero
+- retain the existing static Wix image as fallback
+
+Once the MP4 is present, no HTML editing is required.
